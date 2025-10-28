@@ -1,3 +1,5 @@
+# laptopにて
+
 def main():
     import sys
 
